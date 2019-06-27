@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ECE_LAB_1.srcs/sources_1/new/BCD_SevenSeg.v" \
+"../../../../ECE_LAB_1.srcs/sources_1/new/decoter.v" \
+"../../../../ECE_LAB_1.srcs/sim_1/new/miniProject.v" \
+"../../../../ECE_LAB_1.srcs/sources_1/new/seven_seg.v" \
+"../../../../ECE_LAB_1.srcs/sources_1/new/slowclock_.v" \
+"../../../../ECE_LAB_1.srcs/sources_1/new/top.v" \
+"../../../../ECE_LAB_1.srcs/sources_1/new/top_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

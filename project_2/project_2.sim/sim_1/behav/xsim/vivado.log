@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Jun 17 21:28:04 2019
+# Process ID: 10920
+# Current directory: C:/Users/Lucy Saucedo/ECE_LAB_1/ECE_LAB_1.sim/sim_1/behav/xsim
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11436 C:\Users\Lucy Saucedo\ECE_LAB_1\ECE_LAB_1.sim\sim_1\behav\xsim\freq_counter_behav.wdb
+# Log file: C:/Users/Lucy Saucedo/ECE_LAB_1/ECE_LAB_1.sim/sim_1/behav/xsim/vivado.log
+# Journal file: C:/Users/Lucy Saucedo/ECE_LAB_1/ECE_LAB_1.sim/sim_1/behav/xsim\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_wave_database {C:\Users\Lucy Saucedo\ECE_LAB_1\ECE_LAB_1.sim\sim_1\behav\xsim\freq_counter_behav.wdb}
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.1/data/ip'.
+open_wave_database: Time (s): cpu = 00:00:16 ; elapsed = 00:00:06 . Memory (MB): peak = 699.410 ; gain = 59.934
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Jun 17 21:29:10 2019...

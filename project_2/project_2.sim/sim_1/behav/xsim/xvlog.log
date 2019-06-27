@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Lucy Saucedo/ECE_LAB_1/ECE_LAB_1.srcs/sources_1/new/decoter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Lucy Saucedo/ECE_LAB_1/ECE_LAB_1.srcs/sources_1/new/decoter_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder_tb
